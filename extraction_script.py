@@ -10,3 +10,8 @@ data = pd.read_sql(query, conn)
 data.to_csv('customer_data.csv', index=False)
 # Close the database connection
 conn.close()
+
+print("hello")
+
+print("shrikant")
+
